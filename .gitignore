@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+*.db
+*.db-shm
+*.db-wal
+
+# uv
+.uv/
+
+# Frontend
+node_modules/
+dist/
+.pnpm-store/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
